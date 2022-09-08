@@ -1,4 +1,4 @@
-drop database terceros;
+#drop database terceros;
 create database terceros;
 use terceros;
 
